@@ -1,6 +1,4 @@
-# My Logo Portfolio
-
-Welcome to My logo collection! 
+# My Logo Portfolio 
 
 This repository showcases a collection of logo designs created by me. Each logo represents a unique concept and design approach.
 
