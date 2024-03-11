@@ -16,7 +16,7 @@ Antarjalik is a group that supports the Bangladesh Students Union (BSU). They wo
 ![Red Foto Logo](Red_Foto_Logo.jpg)
 
 **Description:**
-Red Foto is a community inspired by the renowned photographer Saiful Huq Omi. They stand up for the people who are treated unfairly and say no to terrorism. They take pictures to show what's happening in the world.
+Red Foto is a community inspired from Counter Foto. They stand up for the people who are treated unfairly and say no to terrorism. They take pictures to show what's happening in the world.
 
 ## RajnitiAI Logo
 
