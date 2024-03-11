@@ -24,3 +24,10 @@ Red Foto is a community inspired from Counter Foto. They stand up for the people
 
 **Description:**
 RajnitiAI is a community interested in technology and politics. They're aims to create political datasets to help make better decisions using artificial intelligence. 
+
+## Techlighit IT Institute Logo
+
+![Techlight IT Institute Logo](techlight-it-instute-logo.svg)
+
+**Description:**
+Techlight IT Institute is a Leading IT company in Bangladesh since 2012. Offering top-notch training and testing services, catering to corporate and student needs nationwide. Dedicated to providing high-quality technical skill development with internationally certified staff.
