@@ -32,4 +32,4 @@ RajnitiAI is a community interested in technology and politics. They're aims to 
 **about:**
 Techlight IT Institute is a Leading IT company in Bangladesh since 2012. Offering top-notch training and testing services, catering to corporate and student needs nationwide. Dedicated to providing high-quality technical skill development with internationally certified staff.
 
-Made with ❤️ by <a href="https://github.com/shrudra/>@shrudra</a>
+Made with ❤️ by [@shrudra](https://github.com/shrudra)
