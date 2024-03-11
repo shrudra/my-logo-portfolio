@@ -23,4 +23,6 @@ Red Foto is a community inspired by the renowned photographer Saiful Huq Omi. Th
 ![RajnitiAI Logo](RajnitiAI_Logo.jpg)
 
 **Description:**
-RajnitiAI is a group interested in technology and politics. They collect data about politics to help make better decisions using artificial intelligence. 
+RajnitiAI is a community interested in technology and politics. They're aims to create political datasets to help make better decisions using artificial intelligence. 
+
+
