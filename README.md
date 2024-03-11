@@ -39,4 +39,4 @@ If you find value in what I'm creating, a small coffee donation would be a wonde
 
 # License
 
-All of those designs licensed under the Creative Commons Zero v1.0 Universal. Please see [LICENSE](LICENSE) for more information.
+All of those designs licensed under the Creative Commons Zero v1.0 Universal. Please see [LICENSE](LICENSE.txt) for more information.
