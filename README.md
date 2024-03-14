@@ -15,11 +15,6 @@ This repository showcases a collection of logo designs created by me. Each logo 
 ![RajnitiAI Logo](rajnitiai.svg)
 
 
-## Techlighit IT Institute Logo
-
-![Techlight IT Institute Logo](techlight-it-instute-logo.svg)
-
-
 # 👨‍🎨 Buy me a Coffee 
 If you find value in what I'm creating, a small coffee donation would be a wonderful gesture ☕. 
 
