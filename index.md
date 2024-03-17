@@ -4,7 +4,7 @@ This repository showcases a collection of logo designs created by me. Each logo 
 
 ## Antarjalik Logo
 
-![Antarjalik Logo](antarjalik-logo.svg)
+![Antarjalik Logo](antarjalik-logo-crop.svg)
 
 ## Red Foto Logo
 
