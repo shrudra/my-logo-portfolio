@@ -15,10 +15,10 @@ This repository showcases a collection of logo designs created by me. Each logo 
 ![RajnitiAI Logo](rajnitiai.svg)
 
 
-# 👨‍🎨 Buy me a Coffee 
-If you find value in what I'm creating, a small coffee donation would be a wonderful gesture ☕. 
+# 👨‍🎨 Buy me a Book
+If you find value in what I'm creating,‌ a book donation would be a great choice.
 
-<a href="https://www.buymeacoffee.com/shrudra" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/shrudra" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=📖&slug=shrudra&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Book" style="height: auto !important;width: auto !important;" ></a>
 
 # License
 
