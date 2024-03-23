@@ -10,9 +10,6 @@ This repository showcases a collection of logo designs created by me. Each logo 
 
 ![Red Foto Logo](redfoto-logo.svg)
 
-## DPI Chess Club Logo
-
-![DPI Chess Club Logo](dpi-chess-club.svg)
 
 ## RajnitiAI Logo
 
