@@ -15,10 +15,6 @@ This repository showcases a collection of logo designs created by me. Each logo 
 
 ![RajnitiAI Logo](rajnitiai.svg)
 
-## RPA Logo
-
-![RPA Logo](RPA-logo.svg)
-
 
 # 👨‍🎨 Buy me a Book
 If you find value in what I'm creating,‌ a book donation would be a great choice.
