@@ -4,7 +4,7 @@ This repository showcases a collection of logo designs created by me. Each logo 
 
 ## Technical Students' Council Logo
 
-![TSC,BD Logo](tscbd-logo.svg)
+![TSC Logo](TSC-logo.svg)
 
 ## Antarjalik Logo
 
