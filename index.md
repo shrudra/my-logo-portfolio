@@ -2,7 +2,7 @@
 
 This repository showcases a collection of logo designs created by me. Each logo represents a unique concept and design approach.
 
-## Technical Students' Council Logo
+## Diploma-in-Engineering Students' Network Logo
 
 ![TSC Logo](TSC-logo.svg)
 
